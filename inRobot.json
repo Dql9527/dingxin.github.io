@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": 21,
+            "picPath": "http://www.shanghai-fanuc.com.cn/images/djcatalog/m-2ia_t.jpg",
+            "model": "M-2iA",
+            "description": "2012年新品机器人,拳头机器人二号,完全密封结构(IP69K)，高压喷流清洗,高速搬运、装配机器人",
+            "bearLoad": "3kg-6kg",
+            "actionRange": "M-2iA/3S 直径:800mm， 高300mm,M-2iA/3SL直径:1130mm，高400mm,M-2iA/6H/6HL直径:1130mm，高400mm",
+            "useSence": "装配,拾取及包装,物流搬运,材料加工",
+            "type": "动作范围"
+        },
+        {
+            "id": 22,
+            "picPath": "http://www.shanghai-fanuc.com.cn/images/djcatalog/m-1ia.jpg",
+            "model": "M-1iA",
+            "description": "2009年新品机器人,拳头机器人一号 ,小型 灵活 高速",
+            "bearLoad": "0.50kg-1kg",
+            "actionRange": "直径280mm,高度100mm",
+            "useSence": "装配,拾取及包装,材料加工",
+            "type": "动作范围"
+        },
+        {
+            "id": 23,
+            "picPath": "http://www.shanghai-fanuc.com.cn/images/djcatalog/20120712_112613_m-3ia_t.jpg",
+            "model": "M-3iA",
+            "description": "2010年新品机器人,拳头机器人三号,大型高速搬运、装配机器人",
+            "bearLoad": "6kg-12kg",
+            "actionRange": "直径1350mm,高度500mm",
+            "useSence": "装配,拾取及包装,物流搬运,材料加工",
+            "type": "动作范围"
+        },
+        {
+            "id": 24,
+            "picPath": "http://www.shanghai-fanuc.com.cn/images/djcatalog/lr mate 200ic_t.jpg",
+            "model": "LR Mate Series",
+            "description": "LR Mate 系列,人手臂大小的万能,迷你智能机器人",
+            "bearLoad": "4kg-7kg",
+            "actionRange": "704mm-892mm",
+            "useSence": "拾取及包装,物流搬运,机床上下料,材料加工,弧焊 点焊",
+            "type": "可达半径"
+        },
+        {
+            "id": 25,
+            "picPath": "http://www.shanghai-fanuc.com.cn/images/djcatalog/m-430ia_t.jpg",
+            "model": "M-430iA",
+            "description": "M 430iA/2F",
+            "bearLoad": "2kg",
+            "actionRange": "900mm",
+            "useSence": "物流搬运,装配,拾取及包装,码垛",
+            "type": "可达半径"
+        }
+    ]
+}

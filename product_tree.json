@@ -1,0 +1,164 @@
+{
+    "code": 0,
+    "desc": "",
+    "data": [
+        {
+            "parentId": 1,
+            "stairName": "工业电脑",
+            "secondLevelType": [
+                { 
+                    "childrenId":11,
+                    "secondLevelName": "工业整机"
+                },
+                { 
+                    "childrenId":12,
+                    "secondLevelName": "工业主板"
+                },
+                { 
+                    "childrenId":13,
+                    "secondLevelName": "工业机箱"
+                },
+                { 
+                    "childrenId":14,
+                    "secondLevelName": "工业底板"
+                },
+                { 
+                    "childrenId":15,
+                    "secondLevelName": "工业电脑配件"
+                }
+            ]
+        },
+        {
+            "parentId": 2,
+            "stairName": "无风嵌入式电脑",
+            "secondLevelType": [
+                { 
+                    "childrenId":21,
+                    "secondLevelName": "可扩展插槽-MXC系列"
+                },
+                { 
+                    "childrenId":22,
+                    "secondLevelName": "无风嵌入式电脑"
+                },
+                { 
+                    "childrenId":23,
+                    "secondLevelName": "物联网网关"
+                },
+                { 
+                    "childrenId":24,
+                    "secondLevelName": "NUVO系列无风扇电脑"
+                },
+                { 
+                    "childrenId":25,
+                    "secondLevelName": "无风扇电脑配件"
+                }
+            ]
+        },
+        {
+            "parentId": 3,
+            "stairName": "运动控制卡",
+            "secondLevelType": [
+                { 
+                    "childrenId":31,
+                    "secondLevelName": "脉冲序列运动控制卡"
+                },
+                { 
+                    "childrenId":32,
+                    "secondLevelName": "主从风分布式运动控制和IO模块"
+                },
+                { 
+                    "childrenId":33,
+                    "secondLevelName": "EtherCAT主从运动控制和IO模块"
+                },
+                { 
+                    "childrenId":34,
+                    "secondLevelName": "运动控制接线板底板"
+                },
+                { 
+                    "childrenId":35,
+                    "secondLevelName": "运动控制配件"
+                }
+            ]
+        },
+        {
+            "parentId": 4,
+            "stairName": "数据采集卡",
+            "secondLevelType": [
+                { 
+                    "childrenId":41,
+                    "secondLevelName": "数据采集卡"
+                },
+                { 
+                    "childrenId":42,
+                    "secondLevelName": "端子板和配件"
+                },
+                { 
+                    "childrenId":43,
+                    "secondLevelName": "PXI/PXIE"
+                },
+                { 
+                    "childrenId":44,
+                    "secondLevelName": "模块化仪表"
+                }
+            ]
+        },
+        {
+            "parentId": 5,
+            "stairName": "工业机器人",
+            "secondLevelType": [
+                { 
+                    "childrenId":51,
+                    "secondLevelName": "4轴/Scara系列"
+                },
+                { 
+                    "childrenId":52,
+                    "secondLevelName": "6轴系列"
+                },
+                { 
+                    "childrenId":53,
+                    "secondLevelName": "机器人控制器"
+                }
+            ]
+        },
+        {
+            "parentId": 6,
+            "stairName": "平板电脑和显示器",
+            "secondLevelType": [
+                { 
+                    "childrenId":61,
+                    "secondLevelName": "触摸屏"
+                },
+                { 
+                    "childrenId":62,
+                    "secondLevelName": "平板电脑"
+                }
+            ]
+        },
+        {
+            "parentId": 7,
+            "stairName": "模块化电脑",
+            "secondLevelType": [
+                { 
+                    "childrenId":71,
+                    "secondLevelName": "COM Express"
+                },
+                { 
+                    "childrenId":72,
+                    "secondLevelName": "SMARC"
+                },
+                { 
+                    "childrenId":73,
+                    "secondLevelName": "Qseven"
+                },
+                { 
+                    "childrenId":74,
+                    "secondLevelName": "EXT"
+                },
+                { 
+                    "childrenId":75,
+                    "secondLevelName": "配件"
+                }
+            ]
+        }
+    ]
+}

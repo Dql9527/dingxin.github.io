@@ -1,0 +1,61 @@
+{
+    "code": 0,
+    "desc": "sucess",
+    "data": [
+        {
+            "id": 11,
+            "proName": "InnoVC-200/400/600/800系列标准视觉控制器",
+            "picPath": "http://www.hhwytech.com/uploadfiles/20180319_112218.png"
+        },
+        {
+            "id": 12,
+            "proName": "Talos-2000系列：1xEtherCAT和4xGE Vision 运动&视觉一体化自动化控制系统",
+            "picPath": "http://www.hhwytech.com/uploadfiles/20180415_171529.png"
+        },
+        {
+            "id": 13,
+            "proName": "EOS-1300 支持第6代Intel® CoreTM i5/i7/i3/G3900处理器的4通道PoE嵌入式机器视觉系统",
+            "picPath": "http://www.hhwytech.com/uploadfiles/20180415_164749.jpg"
+        },
+        {
+            "id": 14,
+            "proName": "NEON-1020/1040 基于Intel® Atom™ E3845 1.91 GHz四核处理器的智能相机",
+            "picPath": "http://www.hhwytech.com/uploadfiles/20170312_232259.png"
+        },
+        {
+            "id": 15,
+            "proName": "InnoVision视觉系统软件",
+            "picPath": "http://www.hhwytech.com/uploadfiles/20170311_090920.png"
+        },
+        {
+            "id": 16,
+            "proName": "InnoRC 智能视觉读码器",
+            "picPath": "http://www.hhwytech.com/uploadfiles/20170903_184734.png"
+        },
+        {
+            "id": 17,
+            "proName": "InnoGlue 智能视觉点胶系统",
+            "picPath": "http://www.hhwytech.com/uploadfiles/20180419_184058.png"
+        },
+        {
+            "id": 18,
+            "proName": "HyperShape3D 智能3D在线量测系统",
+            "picPath": "http://www.hhwytech.com/uploadfiles/20180419_181634.png"
+        },
+        {
+            "id": 19,
+            "proName": "PCIe-GIE72/74 2/4通道PCI Express® GigE Vision PoE+图像采集卡，支持PoE",
+            "picPath": "http://www.hhwytech.com/uploadfiles/20170312_233915.png"
+        },
+        {
+            "id": 110,
+            "proName": "PCIe-PoE354at：采用服务器芯片的4口/2口PoE+千兆以太网卡",
+            "picPath": "http://www.hhwytech.com/uploadfiles/20170312_233815.jpg"
+        },
+        {
+            "id": 111,
+            "proName": "PCIe-FIW62 2通道PCI Express® IEEE 1394b图像采集卡",
+            "picPath": "http://www.hhwytech.com/uploadfiles/20170312_232959.png"
+        }
+    ]
+}

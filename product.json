@@ -1,0 +1,152 @@
+{
+    "code": 0,
+    "desc": "",
+    "data":{
+        "productA":{
+            "productA1":[
+                {
+                    "id": "A11",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161113_113633.png",
+                    "proName": "RK-610AM/M40H整机：4U高性能原装整机，工业母板机构，支持4核处理器"
+                }
+            ],
+            "productA2":[
+                {
+                    "id": "A21",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161107_212209.jpg",
+                    "proName": "IMB-M43 ATX工业母板，支持第六代Intel® Core™ i7/i5/i3处理器"
+                }
+            ],
+            "productA3":[
+                {
+                    "id": "A31",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161111_115817.png",
+                    "proName": "RK-610系列 4U上架式工业机箱，可安装14槽背板和 工业主板"
+                }
+            ],
+            "productA4":[
+            ],
+            "productA5":[
+            ]
+        },
+        "productB":{
+            "productB1":[
+                {
+                    "id": "B11",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161110_153110.png",
+                    "proName": "MXC-6400系列 基于第六代Intel® Core™ i7/i5/i3处理器的高性能无风扇嵌入式电脑"
+                }
+            ],
+            "productB2":[
+                {
+                    "id": "B21",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161113_120115.jpg",
+                    "proName": "MXE-200系列 基于Intel® Atom™处理器的超小型嵌入式平台"
+                }
+            ],
+            "productB3":[
+                {
+                    "id": "B31",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161110_162503.jpg",
+                    "proName": "MXE-200i 基于Intel® Atom™处理器的嵌入式物联网网关平台"  
+                },
+                {
+                    "id": "B32",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161110_164641.png",
+                    "proName": "MXE-100i：基于Intel® Quark™处理器的物联网网关"  
+                }
+            ],
+            "productB4":[
+                {
+                    "id": "B41",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161123_212233.jpg",
+                    "proName": "Nuvo-6000：Intel® 六代Skylake酷睿™ i7 / i5 无风扇电脑，最多可支持5个PCIe / PCI扩展槽"  
+                }
+            ],
+            "productB5":[
+            ]
+        },
+        "productC": {
+            "productC1": [
+                {
+                    "id": "C11",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161110_170223.png",
+                    "proName": "AMP-204C/AMP-208C 基于DSP的4/8轴高级脉冲式运动控制卡"   
+                }
+            ],
+            "productC2": [
+                {
+                    "id": "C21",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161111_135139.png",
+                    "proName": "PCI-7856 主-从分布式运动和I/O主控制器"   
+                }
+            ],
+            "productC3": [
+                {
+                    "id": "C31",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161111_140747.png",
+                    "proName": "Talos-3012 基于Intel® Atom™ E3845 1.9 GHz处理器的EtherCAT主控制器"   
+                }
+            ],
+            "productC4": [
+            ],
+            "productC5": [
+            ]
+        },
+        "productD": {
+            "productD1":[
+                {
+                    "id": "D11",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161110_181026.png",
+                    "proName": "USB-2405 4通道24位128kS/s USB2.0动态信号采集模块" 
+                }
+            ],
+            "productD2":[
+            ],
+            "productD3":[
+            ],
+            "productD4":[
+            ]
+        },
+        "productE": {
+            "productE1": [
+                {
+                    "id": "E11",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161110_183034.PNG",
+                    "proName": "Rebel-S：Scara系列" 
+                }
+            ],
+            "productE2": [
+                {
+                    "id": "E21",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161204_173800.JPG",
+                    "proName": "Racer 6轴/3~7KG系列" 
+                }
+            ],
+            "productE3": []
+        },
+        "productF": {
+            "productF1": [
+                {
+                    "id": "F11",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161129_210727.jpg",
+                    "proName": "TCM-15PCT 15寸PCT，电容式，触摸屏，1024x768" 
+                }
+            ],
+            "productF2": []
+        },
+        "productG": {
+            "productG1": [
+                {
+                    "id": "G11",
+                    "picPath": "http://www.hhwytech.com/uploadfiles/20161214_115700.png",
+                    "proName": "Express-SL/SLE COM Express® Type 6 基本型计算模块，支持第六代Intel® Core™, Intel® Xeon® E3-1500 和 Celeron® G3900E 处理器" 
+                }
+            ],
+            "productG2": [],
+            "productG3": [],
+            "productG4": [],
+            "productG5": []
+        }
+    }
+}
