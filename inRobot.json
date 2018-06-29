@@ -42,12 +42,22 @@
         },
         {
             "id": 25,
-            "picPath": "http://www.shanghai-fanuc.com.cn/images/djcatalog/m-430ia_t.jpg",
-            "model": "M-430iA",
-            "description": "M 430iA/2F",
-            "bearLoad": "2kg",
-            "actionRange": "900mm",
-            "useSence": "物流搬运,装配,拾取及包装,码垛",
+            "picPath": "http://www.shanghai-fanuc.com.cn/images/fanuc/productImg/smallpicture/sr-3.png",
+            "model": "SR-3iA",
+            "description": "多功能智能小型机器人",
+            "bearLoad": "3kg",
+            "actionRange": "400mm",
+            "useSence": "装配,搬运",
+            "type": "可达半径"
+        },
+        {
+            "id": 26,
+            "picPath": "http://www.shanghai-fanuc.com.cn/images/fanuc/productImg/smallpicture/sr-6.png",
+            "model": "SR-6iA",
+            "description": "多功能智能小型机器人",
+            "bearLoad": "6kg",
+            "actionRange": "650mm",
+            "useSence": "装配,搬运",
             "type": "可达半径"
         }
     ]
